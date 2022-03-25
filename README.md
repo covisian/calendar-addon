@@ -1,4 +1,4 @@
-# calendar-addon
+# Smart Meetings calendar-addon
 Calendar G Suite add-on
 
 [More information](https://developers.google.com/gsuite/add-ons/overview)
